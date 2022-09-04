@@ -58,7 +58,7 @@
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES COMEDIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/COMEDIA/main/README.md</externallink>
 <thumbnail>https://ia601403.us.archive.org/34/items/two-addons-comedia/two%20addons%20COMEDIA.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
