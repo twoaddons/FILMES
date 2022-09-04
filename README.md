@@ -38,7 +38,7 @@
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES DRAMA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/DRAMA/main/README.md</externallink>
 <thumbnail>https://ia601505.us.archive.org/15/items/two-addons-drama/two%20addons%20DRAMA.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
