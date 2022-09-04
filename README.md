@@ -14,7 +14,8 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/SERIES/main/README.md</externallink>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3</fanart>
-<info> 
+<info></info>
+</item>  
 
 <channels>
 <channel>
