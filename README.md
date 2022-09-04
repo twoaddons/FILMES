@@ -12,7 +12,7 @@
 <channels>
 <channel>
 <name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES AÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/SERIES/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info> 
