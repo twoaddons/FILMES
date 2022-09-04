@@ -28,7 +28,7 @@
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/SUSPENSE/main/README.md</externallink>
 <thumbnail>https://ia601401.us.archive.org/5/items/two-addons-suspense/two%20addons%20SUSPENSE.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
