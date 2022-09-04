@@ -72,5 +72,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info> 
-
-
