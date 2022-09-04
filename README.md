@@ -14,7 +14,7 @@
 <name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES AÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/SERIES/main/README.md</externallink>
 <link>https://raw.githubusercontent.com/twoaddons/SERIES/main/README.md</llink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</thumbnail>
 <fanart></fanart>
 <info> 
 
