@@ -17,60 +17,74 @@
 <info></info>
 </item> 
 *******************
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES ANIMAÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES ANIMAÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES DRAMA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES DRAMA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES TERROR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES TERROR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES COMEDIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES COMEDIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES ROMANCE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES ROMANCE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
-<channels>
-<channel>
-<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES FICÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<item>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES FICÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<link></link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info> 
+<info></info>
+</item> 
+*******************
 
   
