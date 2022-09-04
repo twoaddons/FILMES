@@ -68,7 +68,7 @@
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES ROMANCE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/ROMANCE/main/README.md</externallink>
 <thumbnail>https://ia601400.us.archive.org/0/items/two-addons-romance/two%20addons%20ROMANCE.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
