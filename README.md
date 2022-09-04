@@ -48,7 +48,7 @@
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES TERROR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/TERROR/main/README.md</externallink>
 <thumbnail>https://ia601402.us.archive.org/12/items/two-addons-terror/two%20addons%20TERROR.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
