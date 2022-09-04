@@ -1,6 +1,16 @@
 # FILMES LANÇAMENTOS 
 <channels>
 <channel>
+<name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES LANÇAMENTOS 2022 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info> 
+
+
+
+<channels>
+<channel>
 <name>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES AÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
 <externallink></externallink>
 <thumbnail></thumbnail>
