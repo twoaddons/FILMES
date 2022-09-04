@@ -1,6 +1,5 @@
 <item>
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES LANÇAMENTOS 2022 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
-<link>https://raw.githubusercontent.com/twoaddons/LAN-AMENTOS-UPDATE/main/README.md</link>
 <externallink>https://raw.githubusercontent.com/twoaddons/LAN-AMENTOS-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia601509.us.archive.org/32/items/two-addons-lanc-amentos/two%20addonsLAN%C3%87AMENTOS.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3</fanart>
@@ -31,8 +30,8 @@
 <title>[I][COLOR indigo][/COLOR][B][COLOR white] FILMES SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink></externallink>
-<thumbnail></thumbnail>
-<fanart>https://ia601401.us.archive.org/5/items/two-addons-suspense/two%20addons%20SUSPENSE.jpg</fanart>
+<thumbnail>https://ia601401.us.archive.org/5/items/two-addons-suspense/two%20addons%20SUSPENSE.jpg</thumbnail>
+<fanart></fanart>
 <info></info>
 </item> 
 *******************
