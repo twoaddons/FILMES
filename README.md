@@ -8,7 +8,7 @@
 ********************************************
 
 <item>
-<title>[I][COLOR indigo][/COLOR][B][COLOR white]  AÇÃO [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] AÇÃO [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <externallink>https://raw.githubusercontent.com/twoaddons/ACAO/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
 <fanart>https://ia601507.us.archive.org/25/items/two-addons-aca-o/two%20addonsA%C3%87%C3%83O.jpg</fanart>
@@ -16,7 +16,7 @@
 </item> 
 *******************
 <item>
-<title>[I][COLOR indigo][/COLOR][B][COLOR white]  ANIMAÇÃO [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] ANIMAÇÃO [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink>https://raw.githubusercontent.com/twoaddons/ANIMACAO/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
@@ -26,7 +26,7 @@
 *******************
 
 <item>
-<title>[I][COLOR indigo][/COLOR][B][COLOR white]  SUSPENSE [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] SUSPENSE [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink>https://raw.githubusercontent.com/twoaddons/SUSPENSE/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
@@ -46,7 +46,7 @@
 ******************* 
 
 <item>
-<title>[I][COLOR indigo][/COLOR][B][COLOR white]  TERROR [/COLOR][B][COLOR white] [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] TERROR [/COLOR][B][COLOR white] [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink>https://raw.githubusercontent.com/twoaddons/TERROR/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
@@ -66,7 +66,7 @@
 *******************
 
 <item>
-<title>[I][COLOR indigo][/COLOR][B][COLOR white]  ROMANCE [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] ROMANCE [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink>https://raw.githubusercontent.com/twoaddons/ROMANCE/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
@@ -76,7 +76,7 @@
 *******************
 
 <item>
-<title>[I][COLOR indigo][/COLOR][B][COLOR white]  FICÇÃO [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
+<title>[I][COLOR indigo][/COLOR][B][COLOR white] FICÇÃO [/COLOR][B][COLOR white]  [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink>https://raw.githubusercontent.com/twoaddons/FICCAO/main/README.md</externallink>
 <thumbnail>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
