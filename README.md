@@ -49,7 +49,7 @@
 <title>[I][COLOR indigo][/COLOR][B][COLOR white]TERROR [/COLOR][B][COLOR white] [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</title>
 <link></link>
 <externallink>https://raw.githubusercontent.com/twoaddons/TERROR/main/README.md</externallink>
-<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-terror/two%20addons%20TERROR</thumbnail>
+<thumbnail>https://ia801402.us.archive.org/12/items/two-addons-terror/two%20addons%20TERROR.jpg</thumbnail>
 <fanart>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info></info>
 </item> 
